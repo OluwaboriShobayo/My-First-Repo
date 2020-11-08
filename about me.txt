@@ -1,3 +1,4 @@
 Hello, 
 My name is Oluwabori
-I am a budding programmer
+I am a budding developer and I have been able to create and push my first repo.
+i have also learnt about branches.
